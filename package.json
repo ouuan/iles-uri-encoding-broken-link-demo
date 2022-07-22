@@ -1,0 +1,13 @@
+{
+  "name": "iles-uri-encoding-broken-link",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "iles dev",
+    "build": "iles build",
+    "preview": "iles preview --open"
+  },
+  "dependencies": {
+    "iles": "^0.8.1"
+  }
+}
